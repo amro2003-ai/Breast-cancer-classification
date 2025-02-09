@@ -23,3 +23,12 @@ This project aims to build an ML pipeline that automatically runs every hour usi
    [http://127.0.0.1:5000](http://127.0.0.1:5000)  
 5. Open the FastAPI UI in a browser using:  
    [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+## Fast API UI
+![Fast API UI](assets/FastApi.png)
+
+## Mage-AI UI
+![Mage-AI UI](assets/MageAI.png)
+
+## MLFlow UI
+![MLFlow UI](assets/MLFlow.png)
